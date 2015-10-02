@@ -1,0 +1,4 @@
+
+Request  Req.Load VF_Chain    SNode     DNode     Solution     Tot.Latency
+
+Request  Req.Load VF_Chain    SNode     DNode     Solution     Tot.Latency
