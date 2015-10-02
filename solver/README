@@ -1,9 +1,0 @@
-Formato file input
-num_vm num_vf
-num_vm * num_vm latency matrix
-for each j in VM cap_j
-for each k in VF
-k #interdicted_vm list of interdicted_vm for each j in VM proc_time_kj
-
-Per lanciare il file
-./Ese input_file >& log_file

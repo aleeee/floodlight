@@ -2,3 +2,25 @@
 Request  Req.Load VF_Chain    SNode     DNode     Solution     Tot.Latency
 
 Request  Req.Load VF_Chain    SNode     DNode     Solution     Tot.Latency
+
+Request  Req.Load VF_Chain    SNode     DNode     Solution     Tot.Latency
+req1	0.2	1,2,3,6,	0	5	8,5,10,10,	12.33
+req2	10.0	0,3,4,7,	2	4	0,6,8,10,	12.97
+req3	20.0	0,2,7,3,	2	4	3,5,10,10,	12.24
+req5	50.0	8,2,3,		100	0	10,5,6, 	8.46
+req8	500.0	8,2,3,		100	5	10,5,6, 	8.6
+
+Request  Req.Load VF_Chain    SNode     DNode     Solution     Tot.Latency
+req1	0.2	1,2,3,6,	0	5	8,5,10,10,	12.33
+req2	10.0	0,3,4,7,	2	4	0,6,8,10,	12.97
+req3	20.0	0,2,7,3,	2	4	3,5,10,10,	12.24
+req5	50.0	8,2,3,		100	0	10,5,6, 	8.46
+req7	500.0	8,2,3,		100	0	10,5,6, 	8.46
+req8	500.0	8,2,3,		100	5	10,5,6, 	8.6
+
+Request  Req.Load VF_Chain    SNode     DNode     Solution     Tot.Latency
+req1	0.2	1,2,3,6,	0	5	8,5,10,10,	12.33
+req2	10.0	0,3,4,7,	2	4	0,6,8,10,	12.97
+req3	20.0	0,2,7,3,	2	4	3,5,10,10,	12.24
+req5	50.0	8,2,3,		100	0	10,5,6, 	8.46
+req8	500.0	8,2,3,		100	5	10,5,6, 	8.6

@@ -1,0 +1,25 @@
+Num VM 11 Num VF 4
+Default variable names x1, x2 ... being created.
+Default row names c1, c2 ... being created.
+Tried aggregator 3 times.
+MIP Presolve eliminated 40 rows and 368 columns.
+MIP Presolve modified 33 coefficients.
+Aggregator did 17 substitutions.
+All rows and columns eliminated.
+Presolve time = 0.00 sec. (0.38 ticks)
+
+Root node processing (before b&c):
+  Real time             =    0.00 sec. (0.41 ticks)
+Parallel b&c, 4 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.00 sec. (0.41 ticks)
+Solstat 101
+vf 0 on VM 3
+vf 1 on VM 5
+vf 2 on VM 10
+vf 3 on VM 10
+Total latency time 12.24
+Total CPU time (I/0 + solver) 0.004958
